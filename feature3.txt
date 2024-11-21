@@ -1,1 +1,2 @@
 add new feature3
+check clear
